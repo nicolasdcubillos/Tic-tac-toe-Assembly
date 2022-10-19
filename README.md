@@ -1,2 +1,5 @@
 # Tic-tac-toe-Assembly
-Juego de Tic-tac-toe (Triqui) elaborado en MIPS Assembly Language con modo jugar contra el ordenador.
+Tic tac toe game developed in MIPS assembly language. Includes unbeatable mode against the computer.
+
+## Author
+Nicolás David Cubillos Cubillos
